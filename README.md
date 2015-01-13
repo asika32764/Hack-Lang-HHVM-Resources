@@ -10,10 +10,14 @@ See also: [PHP-Tools](https://github.com/asika32764/PHP-Tools)
 
 ### IDE
 
-- [Plugin for EMAC](https://github.com/facebook/hhvm/blob/master/hphp/hack/editor-plugins/emacs/hack-for-hiphop.el)
+none
+
+- [Issue of Netbeans](https://netbeans.org/bugzilla/show_bug.cgi?id=243133)
+- [Issue of PHPStorm](https://youtrack.jetbrains.com/issue/WI-21737)
 
 ### Editors
 
+- [Plugin for EMAC](https://github.com/facebook/hhvm/blob/master/hphp/hack/editor-plugins/emacs/hack-for-hiphop.el)
 - [Plugin for Sublime](https://github.com/SiebelsTim/hack-sublime)
 - [Plugin for VIM](https://github.com/hhvm/vim-hack)
 - [Plugin for ATOM](https://github.com/steelbrain/atom-hack)
