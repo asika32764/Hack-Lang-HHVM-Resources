@@ -32,8 +32,8 @@ See also: [PHP-Tools](https://github.com/asika32764/PHP-Tools)
 
 ### Vagrant
 
-- [Ubuntu 14 Trusty64 - HHVM nightly - NginX](https://github.com/asika32764/vagrant-ubuntu14-trusty-hhvm)
-- [Ubuntu 12 Precise64 - HHVM standard - NginX](https://github.com/vicb/hhvm-vagrant)
+- [Ubuntu 14 Trusty64 - HHVM standard - NginX](https://github.com/asika32764/vagrant-ubuntu14-trusty-hhvm)
+- [Ubuntu 12 Precise64 - HHVM nightly - NginX](https://github.com/vicb/hhvm-vagrant)
 
 ### Docker
 
