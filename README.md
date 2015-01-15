@@ -51,3 +51,4 @@ none
 ### Information
 
 - [HHVM Support in PHP Projects](http://hhvm.h4cc.de/)
+- [Opensource framework list which passed HHVM test](http://hhvm.com/frameworks/) (Official HHVM site)
